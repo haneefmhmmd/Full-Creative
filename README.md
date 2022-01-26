@@ -1,6 +1,6 @@
 # Internship Projects
 
-This project comprises of email templates, websites, web applications done as part of my internship at Full Creative.
+This repository comprises of email templates, websites, web applications done as part of my internship at Full Creative.
 All the websites, web apps and done using html, css and js.
 Email templates are done using html and css.
 
